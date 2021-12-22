@@ -18,3 +18,28 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+/* ----------------------------------------- */
+p {
+  font-size: 1.2em;
+  font-weight: 400;
+  color: rgb(171, 228, 13);
+}
+
+.countryList {
+  font-size: 1.2em;
+  font-weight: 500;
+  color: blue;
+}
+
+.countryOne {
+  font-size: 1.4em;
+  font-weight: 500;
+  color: rgb(15, 97, 52);
+}
+
+.bold {
+  font-size: 1.2em;
+  font-weight: 700;
+  color: rgb(13, 196, 228);
+}
